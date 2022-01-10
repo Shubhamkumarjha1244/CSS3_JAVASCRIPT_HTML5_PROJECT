@@ -1,8 +1,1 @@
-{
-  "dependencies": {
-    "browser-sync": "^2.27.7"
-  },
-  "devDependencies": {
-    "lite-server": "^2.6.1"
-  }
-}
+
